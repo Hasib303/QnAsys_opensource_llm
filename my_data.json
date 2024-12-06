@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "What is the capital of Bangladesh?",
+        "input": "",
+        "output": "The capital of Bangladesh is Dhaka."
+    },
+    {
+        "instruction": "বাংলাদেশের রাজধানী কি?",
+        "input": "",
+        "output": "বাংলাদেশের রাজধানী ঢাকা।"
+    }
+]
